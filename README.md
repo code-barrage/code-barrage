@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @code-barrage
-- 👀 I’m interested in Engineering and building Projects
-- 🌱 I’m currently learning Bachlores of Engineering 
-- 💞️ I’m looking to collaborate on Everything, I believe in Open Sourced 
+- 👋 Hi, I’m Siddhant Sharma @code-barrage
+- 👀 I’m interested in Building Projects and Exploring Technologies
+- 🌱 I’m currently pursuing Bachlores of Engineering 
+- 💞️ I’m looking to collaborate on Everything, I believe in Open Source  
 - 📫 How to reach me - siddhant.sharma@ieee.org
 
 <!---
